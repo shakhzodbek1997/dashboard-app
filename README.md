@@ -72,3 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 // 1. npm install --legacy-peer-deps
 // Used tailwind
+
+// this project covered skills
+// -- Foder and File structure
+// -- Hooks and Refs
+// -- advanced State management  
+// -- React context API
+// -- Syncfusion (is the best UI components for developing Web Apps)
+// -- Syncfusion is a UI library like Chakra, Material UI......   
