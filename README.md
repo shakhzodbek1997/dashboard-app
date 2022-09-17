@@ -69,10 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 
-
 // 1. npm install --legacy-peer-deps
-// Used tailwind
 
+// Used tailwind
+// -- created Tailwind.config.js file in root >> then
+// -- created craco.config.js file in root
 // this project covered skills
 // -- Foder and File structure
 // -- Hooks and Refs
@@ -80,3 +81,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 // -- React context API
 // -- Syncfusion (is the best UI components for developing Web Apps)
 // -- Syncfusion is a UI library like Chakra, Material UI......   
+
