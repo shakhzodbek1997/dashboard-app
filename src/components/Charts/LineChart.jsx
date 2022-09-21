@@ -23,7 +23,7 @@ const LineChart = () => {
         {lineCustomSeries.map((item, index) =>
           <SeriesDirective key={index} {...item} />
   )}
-      </SeriesCollectionDirective>
+      </SeriesCollectionDirective> 
     </ChartComponent>
   )
 }
