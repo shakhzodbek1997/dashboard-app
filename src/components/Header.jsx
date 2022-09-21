@@ -7,7 +7,6 @@ const Header = ({ category, title }) => {
         {category}
       </p>
       <p className='text-3xl font-extrabold tracking-tight text text-slate-900'>{title}</p>
-      
     </div>
   )
 }
